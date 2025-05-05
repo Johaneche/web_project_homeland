@@ -42,3 +42,16 @@
   line-height: 163%;
   letter-spacing: 0%;
 }
+
+@media screen and (min-width: 545px) and (max-width: 1024px) {
+  .content {
+    max-width: 720px;
+    margin: 90px 24px 64px;
+  }
+
+  .content__title {
+    max-width: 710px;
+    font-size: 45px;
+    line-height: 0.8;
+  }
+}
