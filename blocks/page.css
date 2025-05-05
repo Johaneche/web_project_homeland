@@ -1,0 +1,49 @@
+.body {
+  background-color: #2a2c2f;
+}
+
+.page {
+  max-width: 1440px;
+  margin: auto;
+  font-family: "Inter", sans-serif;
+  background-color: #2a2c2f;
+  color: #fff;
+
+  font-family: 16px;
+  line-height: 20px;
+
+  display: flex;
+  flex-direction: column;
+}
+
+/*
+@media screen and (min-width: 768px) and (max-width: 1220px) {
+}
+*/
+
+@media screen and (min-width: 545px) and (max-width: 1024px) {
+  .header__title {
+    max-width: 530px;
+    font-size: 75px;
+    line-height: 1;
+  }
+
+  .content {
+    max-width: 720px;
+    margin: 90px 24px 64px;
+  }
+
+  .content__title {
+    max-width: 710px;
+    font-size: 45px;
+    line-height: 0.8;
+  }
+}
+
+/*
+@media screen and (max-width: 780px) {
+}
+
+@media screen and (max-width: 320px) {
+}
+*/
