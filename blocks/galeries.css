@@ -1,0 +1,13 @@
+.galeries {
+  max-width: 984px;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: repeat(2, 1fr);
+  grid-gap: 16px;
+}
+
+.galeries__image {
+  /* max-width: 284px; */
+  width: 100%;
+  /* padding-bottom: 100%; */
+}
