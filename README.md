@@ -9,7 +9,7 @@ Es este proyecto utilizamos los siguientes temas:
 - Figma (especificaciones directamente desde el editor de graficos)
 - Diseño Responsivo vs Diseño Adaptativo (vh vw %)
 - Dimensiones relativas de bloques (min-width, max-width, Porcentajes, Ancho/Alto ventana grafica, Calc)
-- Dimensiones relativas de elementos texto (em, rem)
+- Dimensiones relativas de elementos texto (esta vez no usamos em, rem)
 - Uso de imagenes (mapa de bits e imagenes vectoriales)
 - Consulta de Medios (MediaQueries)
 - Agregar Fuentes con @font-face
