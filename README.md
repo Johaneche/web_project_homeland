@@ -13,4 +13,4 @@ Es este proyecto utilizamos los siguientes temas:
 - Uso de imagenes (mapa de bits e imagenes vectoriales)
 - Consulta de Medios (MediaQueries)
 - Agregar Fuentes con @font-face
-- Git Avanzado (Inspeccion de cambios: git log, git diff, Registro hash)
+- Git Avanzado (Inspeccion de cambios: git log, git diff, Registro hash; Crear Rama: git branch, git switch, git merge)
