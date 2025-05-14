@@ -17,7 +17,7 @@
     grid-template-columns: 1fr;
     grid-template-rows: repeat(8, 1fr);
     grid-gap: 12px;
-    margin: auto;
+    margin: 64px 16px 38px;
   }
   .galeries__image {
     width: 100%;
@@ -30,7 +30,7 @@
     grid-template-columns: repeat(2, 1fr);
     grid-template-rows: repeat(4, 1fr);
     grid-gap: 12px;
-    margin: auto;
+    margin: 64px 24px 0px;
   }
   .galeries__image {
     width: 100%;
