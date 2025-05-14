@@ -40,6 +40,10 @@ main {
 }
 
 @media screen and (min-width: 545px) and (max-width: 1024px) {
+  .main {
+    margin: 90px 24px 64px;
+  }
+
   .main__title {
     max-width: 710px;
     font-size: 45px;
