@@ -54,7 +54,7 @@
 }
 .places__buttom:hover {
   opacity: 0.25;
-  background: linear-gradient(90deg, #0278fe 0%, #003a7b 99.98%);
+  background: linear-gradient(90deg, #0278fe40 0%, #003a7b40 99.98%);
 }
 
 .places__buttom-link {
